@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-library-website/static/css/main.69d0fff3.css",
-    "main.js": "/react-library-website/static/js/main.58adbcf8.js",
+    "main.js": "/react-library-website/static/js/main.aff0a11f.js",
     "static/js/453.7cecfe56.chunk.js": "/react-library-website/static/js/453.7cecfe56.chunk.js",
     "static/media/Undraw_Books.svg": "/react-library-website/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
     "static/media/Library.svg": "/react-library-website/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
@@ -9,11 +9,11 @@
     "index.html": "/react-library-website/index.html",
     "static/media/wave.svg": "/react-library-website/static/media/wave.42edd5970e3619090a0f.svg",
     "main.69d0fff3.css.map": "/react-library-website/static/css/main.69d0fff3.css.map",
-    "main.58adbcf8.js.map": "/react-library-website/static/js/main.58adbcf8.js.map",
+    "main.aff0a11f.js.map": "/react-library-website/static/js/main.aff0a11f.js.map",
     "453.7cecfe56.chunk.js.map": "/react-library-website/static/js/453.7cecfe56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69d0fff3.css",
-    "static/js/main.58adbcf8.js"
+    "static/js/main.aff0a11f.js"
   ]
 }
