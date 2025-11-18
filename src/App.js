@@ -73,10 +73,10 @@ function App() {
       <div className="App">
         <Nav numberOfItems={numberOfItems()}/>
         <Routes>
-          <Route path="/" element={<Home/>}/>
-          <Route path="/books" element={<Books books={books}/>}/>
-          <Route path="/books/:id" element={<BookInfo books={books} addToCart={addToCart} cart={cart}/>}/>
-          <Route path='/cart' element={<Cart books={books} cart={cart} changeQuantity={changeQuantity} removeItem={removeItem}/>}/>
+          <Route path="/react-library-website" element={<Home/>}/>
+          <Route path="/react-library-website/books" element={<Books books={books}/>}/>
+          <Route path="/react-library-website/books/:id" element={<BookInfo books={books} addToCart={addToCart} cart={cart}/>}/>
+          <Route path='/react-library-website/cart' element={<Cart books={books} cart={cart} changeQuantity={changeQuantity} removeItem={removeItem}/>}/>
         </Routes>
         <Footer/>
       </div>
