@@ -69,7 +69,7 @@ function App() {
   }, [cart])
 
   return (
-    <Router>
+    <Router basename="/react-library-website">
       <div className="App">
         <Nav numberOfItems={numberOfItems()}/>
         <Routes>
